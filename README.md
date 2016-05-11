@@ -1,4 +1,4 @@
-1.Libraries needed to compile and execute the game
+##Libraries needed to compile and execute the game
 	1. GLFW
 	2. glm
 	3. standard c++ libraries
@@ -6,10 +6,10 @@
 	5. oa Library
 	6. lmpeg library
 	7. irrKlang already included
-2. Running
+##Running
 	1. Run the makefile
 	2. An executable named my3Dgame will be generated. Execute it to run the game
-3. Controls and Features.
+##Controls and Features.
 	check help.txt
-Note :- 
-	This game is made for linux.
+
+Note :- This game is made for linux.
