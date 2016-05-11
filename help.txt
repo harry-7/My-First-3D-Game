@@ -1,0 +1,28 @@
+Compiling and Executing
+Run the make file to get the executables 
+Refer to the readme to get details of the libraries needed 
+
+Game  
+ The Objective of the game is to take the key and reach the end block 
+ You will be given three lives 
+ There will be timer running before which you have to complete the goal.
+ Time remaining also adds to your score.
+ If you restart the level then your score will be that of previous level.
+
+ Controls: 
+ Up and Down arrow keys to move front and back. 
+ Left and Right arrow keys to change facing of player (Rotation).
+ I and D to increase/decrease speed of player .
+ R to restart the game
+ P to Pause/UnPause the game.
+
+ Views: 
+ O - Original View of Player 
+ F - Follow Cam View 
+ H - Head Cam View 
+ Scroll Zoom-in/out 
+ V - Top View 
+
+ Additional Features: 
+  In game music 
+   Some sfx ( Like for Jump etc) 
