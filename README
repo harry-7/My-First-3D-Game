@@ -8,10 +8,8 @@
 	7. irrKlang already included
 2. Running
 	1. Run the makefile
-	2. An executable named sample3D will be generated. Execute it to run the game
-3. Controls
-	1. Use arrow keys to navigate the player
-	2. press V key to toggle the view. Currently two different views are available. default view and top view. Top view gives u a 2D image of board
-4. Features
-	1. This submission contains a sample 3D world with obstacles like cavities and pillars. All are fixed.
-	2. Player is a simple cube. which can move based on arrow keys
+	2. An executable named my3Dgame will be generated. Execute it to run the game
+3. Controls and Features.
+	check help.txt
+Note :- 
+	This game is made for linux.
